@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @easy-v
 - 👀 I'm interested in Liunx.
 - 🌱 I am studying the development of Android applications.
-- 📫 You can contact me by email.
-- easy@biters.top
-- 😎 Pronouns: he
+- 🚸 Coach, I want to learn programming!
 
 <!---
 easy-v/easy-v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
